@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\firda\OneDrive - Universiti Sains Malaysia\Assgn2 OOP\main.cpp(115,35): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\firda\OneDrive - Universiti Sains Malaysia\Assgn2 OOP\main.cpp(211,23): warning C4018: '<=': signed/unsigned mismatch
+  GuessWord.cpp
+  Player.cpp
+  Queue.cpp
+  SLL.cpp
+  Generating Code...
+C:\Users\firda\OneDrive - Universiti Sains Malaysia\Assgn2 OOP\SLL.cpp(34): warning C4715: 'SLL::getPlayerByNum': not all control paths return a value
+  Assgn2 OOP.vcxproj -> C:\Users\firda\OneDrive - Universiti Sains Malaysia\Assgn2 OOP\Debug\Assgn2 OOP.exe
